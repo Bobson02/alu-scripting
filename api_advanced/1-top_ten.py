@@ -17,5 +17,4 @@ def top_ten(subreddit):
         for post in posts[:10]:
             print(post['data']['title'])
     else:
-        # Return "OK" for invalid subreddit, with no extra newline
-        print("OK", end="")
+        print("OK",end="")

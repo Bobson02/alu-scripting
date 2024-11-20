@@ -1,10 +1,12 @@
-egular expressions (regex) are sequences of characters that define a search pattern. They are commonly used for tasks such as validating input, searching and replacing text, and extracting information from strings.
+### Background Context
+For this project, you have to build your regular expression using `Oniguruma`, a regular expression library that which is used by Ruby by default. Note that other regular expression libraries sometimes have different properties.
 
-This repository provides a set of exercises and tasks to help you practice using regular expressions. Each task includes a description of the problem and a corresponding solution using regular expressions.
 
-Getting Started
-To get started with the exercises, follow these steps:
+Because the focus of this exercise is to play with regular expressions (regex), here is the Ruby code that you should use, just replace the regexp part, meaning the code in between the //:
 
-Clone the repository to your local machine:
-bash
-git clone https://github.com/your-username/regex-exercise.git
+## Resources
+- Regular expressions - basics
+- Regular expressions - advanced
+- Rubular is your best friend
+- Use a regular expression against a problem: now you have 2 problems
+- Learn Regular Expressions with simple, interactive exercises
